@@ -1,9 +1,7 @@
 ###___IMPORTS___###
 import requests,re,json,os,sys,time
-
 ###___###
 ok=["heh"]
-
 ###___FUNCTIONS___###
 def line():
     print("-"*40)
